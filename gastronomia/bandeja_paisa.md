@@ -21,3 +21,13 @@ El té masala, también conocido como masala chai, es una bebida tradicional de 
 3. Incorporar la leche.
 4. Endulzar al gusto.
 5. Colar y servir caliente.
+
+## Importancia cultural
+
+Es una bebida muy popular en la India y forma parte de la vida cotidiana de millones de personas.
+
+## Recomendaciones de consumo
+
+- Consumir caliente.
+- Ajustar las especias según el gusto.
+- Servir recién preparado.
