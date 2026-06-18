@@ -14,3 +14,11 @@ El ajiaco santafereño es una sopa típica de Bogotá y del altiplano cundiboyac
 - Guascas.
 - Crema de leche.
 - Alcaparras.
+
+## Preparación general
+
+1. Cocinar el pollo en agua.
+2. Agregar las papas y la mazorca.
+3. Incorporar las guascas.
+4. Cocinar hasta obtener una consistencia espesa.
+5. Servir con crema de leche y alcaparras.
