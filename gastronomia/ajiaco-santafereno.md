@@ -22,3 +22,13 @@ El ajiaco santafereño es una sopa típica de Bogotá y del altiplano cundiboyac
 3. Incorporar las guascas.
 4. Cocinar hasta obtener una consistencia espesa.
 5. Servir con crema de leche y alcaparras.
+
+## Importancia cultural
+
+Es uno de los platos más tradicionales de Bogotá y representa la identidad gastronómica de la región.
+
+## Recomendaciones de consumo
+
+- Servir caliente.
+- Acompañar con arroz y aguacate.
+- Consumir preferiblemente en climas fríos.
